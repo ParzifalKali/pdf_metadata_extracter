@@ -1,0 +1,12 @@
+In this folder you have a program (metadata_extracter.py) and a pdf file that can be used as a trial file.
+
+But if you want you can change the pdf file you have to use the other program (metadata_extracter_with_input.py) or you have to change the source code 
+  
+
+Usage :
+
+-1 >> you have to install the pypdf module
+
+-2 >> to use the program you have to run the program in terminal(linux and mac) or in command prompt(windows) using this command : "python metadata_extracter.py" or "python metadata_extracter_with_input.py"
+
+-3 >> you will recive the output
